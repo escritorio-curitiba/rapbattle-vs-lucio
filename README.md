@@ -1,4 +1,4 @@
-# rapbattle-vs-lucio
+# vs-lucio
 
 Towards Lucio, Copel's chatbot, a new challenger is approaching.
 
